@@ -1,6 +1,6 @@
 # 🏠 Kubernetes Homelab
 
-> Production-grade Kubernetes homelab for learning SRE and Platform Engineering
+> Production-grade Kubernetes homelab for experimenting and learning SRE, Platform Engineering, DevOps
 
 ## 📁 Repository Structure
 
