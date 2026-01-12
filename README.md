@@ -1,7 +1,6 @@
 # 🏠 Kubernetes Homelab
 
-> Production-grade Kubernetes homelab for experimenting and learning SRE, Platform Engineering, DevOps
-
+> Production-grade Kubernetes homelab for experimenting and learning
 ## 📁 Repository Structure
 
 - **`ansible/`** - Infrastructure automation with Ansible
@@ -18,8 +17,8 @@
 
 ## 🏗️ Current Setup
 
-- **Nodes**: 2x Intel NUCs (32GB RAM total)
-- **OS**: Ubuntu 24.04 LTS
+- **Nodes**: 2x Intel NUCs (32GB RAM total), 1x MacMini (16GB) Proxmox - VM Debian
+- **OS**: Ubuntu 24.04 LTS, Debian 13
 - **K8s**: K3s v1.33.6
 - **Automation**: Ansible
 - **LoadBalancer**: MetalLB
