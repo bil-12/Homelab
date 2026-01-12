@@ -433,9 +433,7 @@
 
     <script>
         // Service definitions - easy to expand
-        // For better visual design, consider integrating icon libraries like:
-        // - Lucide Icons: https://lucide.dev
-        // - Font Awesome: https://fontawesome.com
+
         const services = [
             {
                 name: 'Linkding',
@@ -504,14 +502,14 @@
         // Initialize on load
         document.addEventListener('DOMContentLoaded', renderServices);
 
-        // Optional: Add service health checking
+        // Backlog: add service health checking
         async function checkServiceHealth() {
             // Placeholder for future API integration
             // Will fetch from monitoring API to show real status
             console.log('Service health check would run here');
         }
 
-        // Run health check every 60 seconds (disabled by default)
+        // Run health check every 60 seconds
         // setInterval(checkServiceHealth, 60000);
     </script>
 </body>
