@@ -23,6 +23,7 @@
 - **Automation**: Ansible
 - **LoadBalancer**: MetalLB
 - **Ingress**: Traefik + Gateway API
+- **AdGuard**: Self-hosted DNSoHTTPS and Ad Blocker
 
 ## 📖 Documentation
 
@@ -37,4 +38,4 @@ See the [docs](docs/) directory for detailed documentation.
 
 ## 👤 Author
 
-Igor Bond - [GitHub](https://github.com/bil-12)
+Igor Bond - [GitHub](https://github.com/igorbnd)
